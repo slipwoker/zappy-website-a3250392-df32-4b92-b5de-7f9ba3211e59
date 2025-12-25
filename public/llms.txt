@@ -1,0 +1,66 @@
+# אילון גלר יועץ מס — Generative Engine Optimization Map
+
+> יועץ מס ותיק, בעל ניסיון רב בניהול תיקי עצמאים, הנהלת חשבונות ודוחות שנתיים לעוסקים מורשים ופטורים. זמין בימי חול מ8:00 ועד 20:00.
+
+---
+
+## Pages
+
+### דף הבית
+https://-a3250392.zappy5.app
+הנהלת חשבונות לעצמאים ויועץ מס מנוסה. קבלו ייעוץ מקצועי לעוסקים מורשים ופטורים, הכנת דוחות מס ושירותי הנהלת חשבונות מותאמים אישית.
+
+### שירותים
+https://-a3250392.zappy5.app/services
+שירותי הנהלת חשבונות לעצמאים, ייעוץ מס לעוסקים מורשים, הכנת דוחות מס שנתיים ועוד. פתרונות מקצועיים ומותאמים אישית לכל סוג עסק.
+
+### אודות
+https://-a3250392.zappy5.app/about
+הכירו את אילון גלר, יועץ מס ותיק עם ניסיון רב בהנהלת חשבונות לעצמאים ועוסקים מורשים. שירות אישי, מקצועי וזמין מ-8:00 עד 20:00.
+
+### צור קשר
+https://-a3250392.zappy5.app/contact
+צרו קשר עם אילון גלר לקבלת ייעוץ מס והנהלת חשבונות לעצמאים. זמין בימי חול מ-8:00 עד 20:00. התקשרו או שלחו הודעה עכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a3250392.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a3250392.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a3250392.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אילון גלר יועץ מס
+יועץ מס ותיק, בעל ניסיון רב בניהול תיקי עצמאים, הנהלת חשבונות ודוחות שנתיים לעוסקים מורשים ופטורים. זמין בימי חול מ8:00 ועד 20:00.
+
+## Services/Products
+- הכנת דוחות מס
+- הנהלת חשבונות לעצמאים
+- עוסקים מורשים
+- עוסקים פטורים
+- ניהול תיקי עצמאים
+- דוחות שנתיים
+- ייעוץ לפתיחת עסק
+
+## Target Audience
+עוסקים מורשים ופטורים, שכירים
+
+## Industry
+שירותי ייעוץ מס
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a3250392.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a3250392.zappy5.app/robots.txt
